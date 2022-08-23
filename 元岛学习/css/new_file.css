@@ -1,0 +1,14 @@
+.div1 {
+	background-color: darkcyan;
+	text-align: center;
+	padding: 30px;
+	border-radius: 20px;
+}
+
+#div2 {
+	max-width: 500px;
+	margin: 30px auto;
+	padding: 12%;
+	background: bisque;
+	border-radius: 20px;
+}
